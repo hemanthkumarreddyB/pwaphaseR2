@@ -1,0 +1,15 @@
+body{
+  background: #CFD4D2;
+}
+img{
+  width: 10%;
+}
+table {
+  width: 100%;
+  border:2px solid blue;
+}
+
+table th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}

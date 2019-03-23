@@ -1,0 +1,39 @@
+header{
+  background: #53E816;
+  color:#E81F0B;
+  margin: 1%;
+  padding: 2%;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  text-align: 600;
+  border: 2px solid black;
+  box-shadow: 5px 5px red;
+}
+a img{
+  display: block;
+  height: 10%;
+  width: 10%;
+  margin: 1% 3% 0 auto;
+
+}
+.child img{
+  width: 280px;
+  height: 280px;
+}
+.child{
+  text-align: center;
+  border:2px solid blue;
+  width: 300px;
+  height:400px;
+  background-color: red;
+  margin: 2px;
+  padding:2px;
+
+}
+.parent{
+
+  display: flex;
+  padding:1%;
+  margin:1%;
+}
